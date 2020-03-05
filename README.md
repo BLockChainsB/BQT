@@ -1,0 +1,2 @@
+# BQT
+Bitcuty coin Cryptonote
